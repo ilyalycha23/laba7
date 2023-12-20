@@ -1,0 +1,89 @@
+{
+    "lekarsva": [
+        {
+            "lekarsva_id": "1",
+            "lekarsva_name": "Bakset",
+            "lekarsva_cost": "900"
+        },
+        {
+            "lekarsva_id": "2",
+            "lekarsva_name": "Grammidin",
+            "lekarsva_cost": "600"
+        },
+        {
+            "lekarsva_id": "3",
+            "lekarsva_name": "Stomatofit",
+            "lekarsva_cost": "990"
+        },
+        {
+            "lekarsva_id": "4",
+            "lekarsva_name": "Nyrafen",
+            "lekarsva_cost": "2400"
+        }
+    ],
+    "skidka": [
+        {
+            "skidki_id": "1",
+            "skidki_proLL": "15",
+            "lekarsva_id": "2"
+        },
+        {
+            "skidki_id": "2",
+            "skidki_proLL": "50",
+            "lekarsva_id": "3"
+        },
+        {
+            "skidki_id": "3",
+            "skidki_proLL": "25",
+            "lekarsva_id": "1"
+        }
+    ],
+    "postoyal_pok": [
+        {
+            "postoyal_pok_id": "1",
+            "postoyal_pok_fio": "Lavreshin I.A.",
+            "postoyal_pok_data_rog": "23.01.2006",
+            "lekarsva_id": "3"
+        },
+        {
+            "postoyal_pok_id": "2",
+            "postoyal_pok_fio": "Ivanov I.I.",
+            "postoyal_pok_data_rog": "15.11.2001",
+            "lekarsva_id": "2"
+        },
+        {
+            "postoyal_pok_id": "3",
+            "postoyal_pok_fio": "Nazarova N.P.",
+            "postoyal_pok_data_rog": "01.02.1946",
+            "lekarsva_id": "1"
+        },
+        {
+            "postoyal_pok_id": "4",
+            "postoyal_pok_fio": "Kirichenko I.V.",
+            "postoyal_pok_data_rog": "01.02.1978",
+            "lekarsva_id": "4"
+        }
+    ],
+    "postavshiki": [
+        {
+            "postavshiki_id": "1",
+            "postavshiki_fio": "Kolagan M.I.",
+            "postavshiki_min_sum": "10000"
+        },
+        {
+            "postavshiki_id": "2",
+            "postavshiki_fio": "Petrov I.A.",
+            "postavshiki_min_sum": "5000"
+        },
+        {
+            "postavshiki_id": "3",
+            "postavshiki_fio": "Lylikov P.S.",
+            "postavshiki_min_sum": "9000"
+        },
+        {
+            "postavshiki_id": "4",
+            "postavshiki_fio": "Majorov I.A.",
+            "postavshiki_min_sum": "30000"
+        }
+    ]
+}
